@@ -20,7 +20,8 @@ The idea of this project is to make a **cool and unique 3D Spherical Display**.T
 2. Tejaswa Soni
 3. Aditya Raj
 4. Prashant Kumar
-5.Vedvyas Dhanturi
+5. Vedvyas Dhanturi
+
 
 ## Electronic Component Used
 1. Arduino UNO
@@ -28,8 +29,6 @@ The idea of this project is to make a **cool and unique 3D Spherical Display**.T
 3. Hall Sensor
 4. High Torque Bane-Bot 18W DC Motor 
 5. Adressable -RGB LED strip(60LEDs/m)(20 LEDs on the semicirle
-
-
 
 
 ## Mechanical Sructure
