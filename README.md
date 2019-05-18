@@ -32,7 +32,12 @@ The model for the 3d spherical display worked on the phenomenon of Persistence O
 
 
 # Cost Structure
-The main money intensive material in our model was the LED Strip which we got for 2k(approx) Rs and the Bane Bot 18V DC motor which was around 1.5k. The arduino UNO and Cytron Motor Driver were the next in line and the cost that we saved was of the slip ring and the rotating ring (slip ring- 1.5k Rs), The hall Sensor,wires,voltage regulator etc.(other electronics) costed around 700 Rs.Overall it was descent for its cost.
+LED Strip ~2k Rs
+Bane Bot 18V DC motor ~1.5k. 
+The arduino UNO~400 Rs 
+Cytron Motor Driver~1k
+The hall Sensor,wires,voltage regulator etc.(other electronics)~ 700 Rs.
+Overall it was descent for its cost.
 
 
 # Limitations
@@ -47,18 +52,18 @@ The main money intensive material in our model was the LED Strip which we got fo
 
 
 # Team Members
-1. [Kshitij Bithel](https://github.com/KSHITIJBITHEL)
-2. [Sanyam Jain](https://github.com/sanyam2248)
+1. [Chanda Kumari](https://github.com/krichanda)   
+2. [Kshitij Bithel](https://github.com/KSHITIJBITHEL)
 3. [Lipi Shreya](https://github.com/LipiShreya)
-4. [Vivek Kumar](https://github.com/rohit234)
-5. [Chanda Kumari](https://github.com/krichanda)   
+4. [Sanyam Jain](https://github.com/sanyam2248)
+5. [Vivek Kumar](https://github.com/rohit234)
 
 
 # Mentors
-1. Tarun Saxena
-2. Tejaswa Soni
-3. Aditya Raj
-4. Prashant Kumar
+1. Aditya Raj
+2. Prashant Kumar
+3. Tarun Saxena
+4. Tejaswa Soni
 5. Vedvyas Dhanturi
 
 
@@ -66,11 +71,9 @@ The main money intensive material in our model was the LED Strip which we got fo
 
 
 # References 
-[Build Your POV Globe -Makezine](https://makezine.com/projects/persistence-vision-led-globe/)
-
-[How To Control WS2812B Individually Addressable LEDs using Arduino](https://howtomechatronics.com/tutorials/arduino/how-to-control-ws2812b-individually-addressable-leds-using-arduino/)
-
-[Interfacing Hall Effect Sensor with Arduino](https://circuitdigest.com/microcontroller-projects/arduino-hall-effect-sensor)
+*[ Build Your POV Globe -Makezine](https://makezine.com/projects/persistence-vision-led-globe/)
+* [How To Control WS2812B Individually Addressable LEDs using Arduino](https://howtomechatronics.com/tutorials/arduino/how-to-control-ws2812b-individually-addressable-leds-using-arduino/)
+* [Interfacing Hall Effect Sensor with Arduino](https://circuitdigest.com/microcontroller-projects/arduino-hall-effect-sensor)
   
  
  For Videos and More Images [Click here](https://drive.google.com/open?id=1-Z8BFcf-tHamf8n8zDd5CVdYPwPu7yQ-)
