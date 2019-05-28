@@ -1,7 +1,7 @@
 <h1> POV GLOBE </h1> 
 <h4> The New and Cool Way of advertising </h4>
 
-![](https://github.com/KSHITIJBITHEL/POV-Globe/blob/master/Images/pov_globe.jpg)
+![Final Model](https://github.com/KSHITIJBITHEL/POV-Globe/blob/master/Images/pov_globe.jpg)
 
 <h2> Abstract</h2>
 
@@ -18,7 +18,7 @@ The main driving force about this project was that it was different ,different t
 It consists of a ring (which we made out of a badminton raquet) mounted on a heavy cardboard(to decrease the vibrations of rotating ring),it also consisted of a slip ring(self made using an stainless steel cylinder,copper wires and rubber bands!!).
 
 
-<img src="https://github.com/KSHITIJBITHEL/POV-Globe/blob/master/Images/Mech%20Model.jpg" width=400 />
+<img src="https://github.com/KSHITIJBITHEL/POV-Globe/blob/master/Images/Mech%20Model.jpg" width=400 alt="Mech Model" />
 
 
 <h2> Electronic Component Used</h2>
@@ -83,7 +83,7 @@ Overall it was descent for its cost.
 5. Vedvyas Dhanturi
 
 
-![](https://github.com/KSHITIJBITHEL/POV-Globe/blob/master/Images/1HdM-ZkzFVqiFdRHr80XBxplEYblTOhi6.jpg)
+![Team Members](https://github.com/KSHITIJBITHEL/POV-Globe/blob/master/Images/1HdM-ZkzFVqiFdRHr80XBxplEYblTOhi6.jpg)
 
 
 <h2> References </h2>
