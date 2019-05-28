@@ -1,8 +1,7 @@
 <h1> POV GLOBE </h1> 
- _ The New and Cool Way of advertising _
+<h4> The New and Cool Way of advertising </h4>
 
 ![](https://github.com/KSHITIJBITHEL/POV-Globe/blob/master/Images/pov_globe.jpg)
-
 
 <h2> Abstract</h2>
 
@@ -42,13 +41,16 @@ It consists of a ring (which we made out of a badminton raquet) mounted on a hea
 
 <h2> Cost Structure</h2>
 
-LED Strip ~2k Rs
-Bane Bot 18V DC motor ~1.5k. 
-The arduino UNO~400 Rs 
-Cytron Motor Driver~1k
-The hall Sensor,wires,voltage regulator etc.(other electronics)~ 700 Rs.
-Overall it was descent for its cost.
 
+| Item | Cost |
+| --- | --- |
+| `LED strip` | ~2k |
+| `Bane Bot 18V DC motor` | ~15k |
+| `The arduino UNO` | ~400|
+| `Cytron Motor Driver` | ~1k |
+| `The hall Sensor,wires,voltage regulator etc.(other electronics)` | ~800 |
+
+Overall it was descent for its cost.
 
 <h2> Limitations</h2>
 
