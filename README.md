@@ -42,14 +42,14 @@ It consists of a ring (which we made out of a badminton raquet) mounted on a hea
 <h2> Cost Structure</h2>
 
 
-| Item | Cost |
+| Item | Cost(₹) |
 | :--- | :--- |
-| LED strip | ~2k |
-| Bane Bot 18V DC motor | ~15k |
-| The arduino UNO | ~400|
-| Cytron Motor Driver | ~1k |
-| The hall Sensor,wires,voltage regulator etc.(other electronics) | ~800 |
-
+| LED strip | 2k |
+| Bane Bot 18V DC motor | 15k |
+| The arduino UNO | 400|
+| Cytron Motor Driver | 1k |
+| The hall Sensor,wires,voltage regulator etc.(other electronics) | 800 |
+|**Total**| 19.2 k| 
 Overall it was descent for its cost.
 
 <h2> Limitations</h2>
