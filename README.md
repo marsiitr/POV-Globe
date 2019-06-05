@@ -1,7 +1,7 @@
 <h1> POV GLOBE </h1> 
 <h4> The New and Cool Way of advertising </h4>
 
-![Final Model](https://github.com/KSHITIJBITHEL/POV-Globe/blob/master/Images/pov_globe.jpg)
+![Final Model](https://github.com/KSHITIJBITHEL/POV-Globe/blob/master/Images%20and%20Videos/pov_globe.jpg)
 
 <h2> Abstract</h2>
 
@@ -18,7 +18,7 @@ The main driving force about this project was that it was different ,different t
 It consists of a ring (which we made out of a badminton raquet) mounted on a heavy cardboard(to decrease the vibrations of rotating ring),it also consisted of a slip ring(self made using an stainless steel cylinder,copper wires and rubber bands!!).
 
 
-<img src="https://github.com/KSHITIJBITHEL/POV-Globe/blob/master/Images/Mech%20Model.jpg" width=400 alt="Mech Model" />
+<img src="https://github.com/KSHITIJBITHEL/POV-Globe/blob/master/Images%20and%20Videos/Mech%20Model.jpg" width=400 alt="Mech Model" />
 
 
 <h2> Electronic Component Used</h2>
@@ -43,12 +43,12 @@ It consists of a ring (which we made out of a badminton raquet) mounted on a hea
 
 
 | Item | Cost |
-| --- | --- |
-| `LED strip` | ~2k |
-| `Bane Bot 18V DC motor` | ~15k |
-| `The arduino UNO` | ~400|
-| `Cytron Motor Driver` | ~1k |
-| `The hall Sensor,wires,voltage regulator etc.(other electronics)` | ~800 |
+| :--- | :--- |
+| LED strip | ~2k |
+| Bane Bot 18V DC motor | ~15k |
+| The arduino UNO | ~400|
+| Cytron Motor Driver | ~1k |
+| The hall Sensor,wires,voltage regulator etc.(other electronics) | ~800 |
 
 Overall it was descent for its cost.
 
@@ -83,7 +83,7 @@ Overall it was descent for its cost.
 5. Vedvyas Dhanturi
 
 
-![Team Members](https://github.com/KSHITIJBITHEL/POV-Globe/blob/master/Images/1HdM-ZkzFVqiFdRHr80XBxplEYblTOhi6.jpg)
+![Team Members](https://github.com/KSHITIJBITHEL/POV-Globe/blob/master/Images%20and%20Videos/The%20team.jpg)
 
 
 <h2> References </h2>
