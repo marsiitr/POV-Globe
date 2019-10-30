@@ -5,17 +5,17 @@
 
 <h2> Abstract</h2>
 
-The idea of this project is to make a **cool and unique 3D Spherical Display**.The team of 5 freshers did our best to make the spherical display ,displaying the phenomenon of Persistence Of Vision using a ring rotating at a very high rpm with a LED strip on its circumference which was adjusted to glow so as to make the model capable of displaying floating text,user entered words,and blurred images.  
+The idea of this project is to make a **cool and unique 3D Spherical Display**.The team of 5 freshers did their best to make the spherical display, displaying the phenomenon of Persistence of Vision using a ring rotating at a very high rpm with a LED strip on its circumference which was adjusted to glow so as to make the model capable of displaying floating text, user enter words and blurred images.  
 
 
 <h2> Motivation</h2>
 
-The main driving force about this project was that it was different ,different than the core models with moving servo motors, controlled by programs, it was cool ,has speed has a colorful look and is a bit unique.
+The main driving force about this project was that it was different than the core models with moving servo motors, controlled by programs, it was cool, has a colorful look and is a bit unique.
 
 
 <h2> Mechanical Sructure</h2>
 
-It consists of a ring (which we made out of a badminton raquet) mounted on a heavy cardboard(to decrease the vibrations of rotating ring),it also consisted of a slip ring(self made using an stainless steel cylinder,copper wires and rubber bands!!).
+It consists of a ring (which we made out of a badminton racket) mounted on a heavy cardboard(to decrease the vibrations of rotating ring), it also consisted of a slip ring(self made using an stainless steel cylinder, copper wires and rubber bands!!).
 
 
 <img src="https://github.com/KSHITIJBITHEL/POV-Globe/blob/master/Images%20and%20Videos/Images/Mech%20Model.jpg" width=400 alt="Mech Model" />
@@ -33,10 +33,10 @@ It consists of a ring (which we made out of a badminton raquet) mounted on a hea
 <h2> Working</h2>
 
 **Principle** The Persistence Of Vision phenomenon
-- The ring with LEDs mounted on it was rotated at around 1500 rpm  so as to give effect of 25fps display
-- The feedback for completion of a revolution was taken using hall sensor mounted on the side .
-- According to the feedback from hall sensor, angular velocity and time period of every revolution was calculated
-- dividing the revolution time into various segments, the LEDs were lighted according to the printed text;
+- The ring with LEDs mounted on it was rotated at around 1500 rpm  so as to give effect of 25fps display.
+- The feedback for the completion of a revolution was taken using hall sensor mounted on the side.
+- According to the feedback from hall sensor, angular velocity and time period of every revolution was calculated.
+- Dividing the revolution time into various segments, the LEDs were lighted according to the printed text.
 - The whole system was powered by 12V LiPo battery and power was transmitted to LEDs using slip ring.
 
 <h2> Cost Structure</h2>
@@ -54,7 +54,7 @@ Overall it was descent for its cost.
 
 <h2> Limitations</h2>
 
- - At present we are able to diaplay 4-5 alphabet words since the adrduino UNO clock has least delay of 1ms ,the individual vertical strips expanded due to a large time difference between them, which made the letters wide. 
+ - At present we are able to diaplay 4-5 alphabets since the adrduino UNO clock has least delay of 1ms, the individual vertical strips expanded due to a large time difference between them, which made the letters wide. 
  - At present ,if we try to show some images ,they appear distorted due to the above limitation and the unavailability of higher density LED strip.
  - The present slip ring isn't that efficient in, it when operated at angular velocity higher than 1500 rpm,it starts to show noise in the data cable, making the display bad.
 
